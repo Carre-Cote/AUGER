@@ -1,0 +1,18 @@
+{
+  "version": 4,
+  "name": "AUGER",
+  "levels": [
+    {
+      "id": "level_1790927495776_kmx7n",
+      "name": "RDC",
+      "plan": "plans/Pages de Auger - PCG - RDC.png",
+      "rooms": []
+    },
+    {
+      "id": "level_1790927498760_dclks",
+      "name": "R+1",
+      "plan": "plans/Pages de Auger - PCG - R+1.png",
+      "rooms": []
+    }
+  ]
+}
