@@ -1,0 +1,1080 @@
+{
+  "version": 4,
+  "name": "AUGER",
+  "levels": [
+    {
+      "id": "level_1790927495776_kmx7n",
+      "name": "RDC",
+      "plan": "plans/Pages de Auger - PCG - RDC.png",
+      "rooms": [
+        {
+          "id": "r_1790928961225_arm76",
+          "name": "ENTREE",
+          "x": 40.99513992683422,
+          "y": 32.658168877380355,
+          "color": "#4ab94e",
+          "content": "\u003ch2>ENTREE\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plinthes\u003c/strong> — Carrelage\u003c/li>\u003cli>\u003cstrong>Carrelage\u003c/strong> — Voir plan LESCA dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan LESCA\u003c/strong> — Carrelage — \u003ca href=\"documents/AUGER LESCA RDC.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790929064607_e5otu",
+                "name": "Plinthes",
+                "detail": "Carrelage",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790929081453_vnmi1",
+                "name": "Carrelage",
+                "detail": "Voir plan LESCA dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "equipements": [],
+            "divers": [
+              {
+                "id": "f_1790929171293_iit98",
+                "name": "Plan LESCA",
+                "detail": "Carrelage",
+                "pdf": "documents/AUGER LESCA RDC.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790929283821_ujxqz",
+          "name": "WC 1",
+          "x": 37.179667699275406,
+          "y": 26.47871456378168,
+          "color": "#0080c0",
+          "content": "\u003ch2>WC 1\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Carrelage/Faïences\u003c/strong> — Voir plan LESCA dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>WC\u003c/strong> — - Cuvette suspendue ROCA ONA BLANC\u003cbr>- Douchette hygiénique INTIMIXER\u003c/li>\u003cli>\u003cstrong>MEUBLE VASQUE\u003c/strong> — -Meuble ouvert CHENE STRIE DORE\u003cbr>- Plan vasque blanc brillant\u003cbr>- Dimensions : 500x542x324\u003cbr>- Barre porte serviettes à poser sur le côté droit du meuble\u003cbr>- Mitigeur lavabo ULTIMA\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan LESCA\u003c/strong> — Carrelage — \u003ca href=\"documents/AUGER LESCA RDC+WC1+WC2+SDE 1.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790929469840_nsn0f",
+                "name": "Carrelage/Faïences",
+                "detail": "Voir plan LESCA dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790929394103_mm8cq",
+                "name": "WC",
+                "detail": "- Cuvette suspendue ROCA ONA BLANC\n- Douchette hygiénique INTIMIXER",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790929420388_0blas",
+                "name": "MEUBLE VASQUE",
+                "detail": "-Meuble ouvert CHENE STRIE DORE\n- Plan vasque blanc brillant\n- Dimensions : 500x542x324\n- Barre porte serviettes à poser sur le côté droit du meuble\n- Mitigeur lavabo ULTIMA",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790929500095_wfahj",
+                "name": "Plan LESCA",
+                "detail": "Carrelage",
+                "pdf": "documents/AUGER LESCA RDC+WC1+WC2+SDE 1.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790929566634_00djz",
+          "name": "DGT 1",
+          "x": 41.48624596368414,
+          "y": 26.213933598320914,
+          "color": "#9ea262",
+          "content": "\u003ch2>DGT 1\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plinthes\u003c/strong> — Carrelage\u003c/li>\u003cli>\u003cstrong>Carrelage\u003c/strong> — Voir plan LESCA dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Agencement\u003c/strong> — Voir plan de détail dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan LESCA\u003c/strong> — Carrelage — \u003ca href=\"documents/AUGER LESCA RDC.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003cli>\u003cstrong>Plan de détails\u003c/strong> — Agencements — \u003ca href=\"documents/AUGER PLANS AGENCEMENTS DGT 1+CHAMBRE AMIS+CHAMBRE 1.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790929614783_q4aea",
+                "name": "Plinthes",
+                "detail": "Carrelage",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790929629894_uyf6j",
+                "name": "Carrelage",
+                "detail": "Voir plan LESCA dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790946094740_l735n",
+                "name": "Agencement",
+                "detail": "Voir plan de détail dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790929644253_xn3yp",
+                "name": "Plan LESCA",
+                "detail": "Carrelage",
+                "pdf": "documents/AUGER LESCA RDC.pdf"
+              },
+              {
+                "id": "f_1790946124708_n26wd",
+                "name": "Plan de détails",
+                "detail": "Agencements",
+                "pdf": "documents/AUGER PLANS AGENCEMENTS DGT 1+CHAMBRE AMIS+CHAMBRE 1.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790929705569_b5269",
+          "name": "GARAGE",
+          "x": 40.29487272771644,
+          "y": 16.362446006061553,
+          "color": "#6f42c1",
+          "content": "\u003ch2>GARAGE\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Murs Intérieurs\u003c/strong> — Enduits lots façades (hors placo)\u003c/li>\u003cli>\u003cstrong>Carrelage\u003c/strong> — Voir plan LESCA dans &quot;Divers&quot;\u003c/li>\u003cli>\u003cstrong>Plinthes\u003c/strong> — Carrelage\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan LESCA\u003c/strong> — Carrelage — \u003ca href=\"documents/AUGER LESCA RDC.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790929743687_det7k",
+                "name": "Murs Intérieurs",
+                "detail": "Enduits lots façades (hors placo)",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790929854535_zpojt",
+                "name": "Carrelage",
+                "detail": "Voir plan LESCA dans \"Divers\"",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790929905244_g1p99",
+                "name": "Plinthes",
+                "detail": "Carrelage",
+                "pdf": ""
+              }
+            ],
+            "equipements": [],
+            "divers": [
+              {
+                "id": "f_1790929963552_01fg6",
+                "name": "Plan LESCA",
+                "detail": "Carrelage",
+                "pdf": "documents/AUGER LESCA RDC.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790930113981_fruzr",
+          "name": "LOCAL TECHNIQUE",
+          "x": 47.3910834079059,
+          "y": 15.637430626683521,
+          "color": "#1fe4ae",
+          "content": "\u003ch2>LOCAL TECHNIQUE\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Carrelage\u003c/strong> — Voir plan LESCA dans &quot;Divers&quot;\u003c/li>\u003cli>\u003cstrong>Plinthes\u003c/strong> — Carrelage\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan LESCA\u003c/strong> — Carrelage — \u003ca href=\"documents/AUGER LESCA RDC.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790930144172_x6z57",
+                "name": "Carrelage",
+                "detail": "Voir plan LESCA dans \"Divers\"",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790930157978_1f3oe",
+                "name": "Plinthes",
+                "detail": "Carrelage",
+                "pdf": ""
+              }
+            ],
+            "equipements": [],
+            "divers": [
+              {
+                "id": "f_1790930193616_qxgpz",
+                "name": "Plan LESCA",
+                "detail": "Carrelage",
+                "pdf": "documents/AUGER LESCA RDC.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790930285476_rv4vv",
+          "name": "CUISINE",
+          "x": 40.70768693145735,
+          "y": 43.65172797083816,
+          "color": "#cf9cc0",
+          "content": "\u003ch2>CUISINE\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Carrelage\u003c/strong> — Voir plan LESCA dans &quot;Divers&quot;\u003c/li>\u003cli>\u003cstrong>Plinthes\u003c/strong> — Carrelage\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan technique\u003c/strong> — LOUSTAU CONCEPT — \u003ca href=\"documents/Plan technique AUGER.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790930390231_k4iqp",
+                "name": "Carrelage",
+                "detail": "Voir plan LESCA dans \"Divers\"",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790930422741_tgl3r",
+                "name": "Plinthes",
+                "detail": "Carrelage",
+                "pdf": ""
+              }
+            ],
+            "equipements": [],
+            "divers": [
+              {
+                "id": "f_1790930316371_jke8l",
+                "name": "Plan technique",
+                "detail": "LOUSTAU CONCEPT",
+                "pdf": "documents/Plan technique AUGER.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790930536816_wq3jh",
+          "name": "PORCHE",
+          "x": 36.29494823215259,
+          "y": 33.055678237957096,
+          "color": "#cbb538",
+          "content": "\u003ch2>PORCHE\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Carrelage collé compris natte\u003c/strong> — Voir plan LESCA dans &quot;Divers&quot;\u003c/li>\u003cli>\u003cstrong>Réservation\u003c/strong> — Tapis 80x60cm\u003c/li>\u003cli>\u003cstrong>Plafond\u003c/strong> — Voliges\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Voir plan LESCA dans &quot;Divers&quot;\u003c/strong> — Carrelage — \u003ca href=\"documents/AUGER LESCA RDC.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790930582422_qsxgl",
+                "name": "Carrelage collé compris natte",
+                "detail": "Voir plan LESCA dans \"Divers\"",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790930609629_rdu3y",
+                "name": "Réservation",
+                "detail": "Tapis 80x60cm",
+                "pdf": ""
+              },
+              {
+                "id": "f_1791187269282_lo5tx",
+                "name": "Plafond",
+                "detail": "Voliges",
+                "pdf": ""
+              }
+            ],
+            "equipements": [],
+            "divers": [
+              {
+                "id": "f_1790930664122_v4cl2",
+                "name": "Voir plan LESCA dans \"Divers\"",
+                "detail": "Carrelage",
+                "pdf": "documents/AUGER LESCA RDC.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790930772676_qodcw",
+          "name": "TERRASSE",
+          "x": 51.32596202904821,
+          "y": 47.89208280826407,
+          "color": "#f80cd5",
+          "content": "\u003ch2>TERRASSE\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Carrelage\u003c/strong> — Voir plan LESCA dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan LESCA\u003c/strong> — Carrelage — \u003ca href=\"documents/AUGER LESCA RDC.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790930880255_67363",
+                "name": "Carrelage",
+                "detail": "Voir plan LESCA dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "equipements": [],
+            "divers": [
+              {
+                "id": "f_1790930913446_yil2k",
+                "name": "Plan LESCA",
+                "detail": "Carrelage",
+                "pdf": "documents/AUGER LESCA RDC.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790931026601_pec2y",
+          "name": "SALON / RECEPTION",
+          "x": 54.77223048883291,
+          "y": 30.12003392046131,
+          "color": "#ff0000",
+          "content": "\u003ch2>SALON / RECEPTION\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plinthes\u003c/strong> — Carrelage\u003c/li>\u003cli>\u003cstrong>Carrelage\u003c/strong> — Voir plan LESCA dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Agencement\u003c/strong> — Voir plan de détail dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan LESCA\u003c/strong> — Carrelage — \u003ca href=\"documents/AUGER LESCA RDC.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003cli>\u003cstrong>Plan de détails\u003c/strong> — Agencements — \u003ca href=\"documents/AUGER PLANS AGENCEMENTS DRESSING+SALLE D&#39;EAU 1+MEUBLE TV.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790931102149_yxr4w",
+                "name": "Plinthes",
+                "detail": "Carrelage",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790931127771_1rvbv",
+                "name": "Carrelage",
+                "detail": "Voir plan LESCA dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790946333692_76i02",
+                "name": "Agencement",
+                "detail": "Voir plan de détail dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790931205239_zu7ii",
+                "name": "Plan LESCA",
+                "detail": "Carrelage",
+                "pdf": "documents/AUGER LESCA RDC.pdf"
+              },
+              {
+                "id": "f_1790946365324_vgzsz",
+                "name": "Plan de détails",
+                "detail": "Agencements",
+                "pdf": "documents/AUGER PLANS AGENCEMENTS DRESSING+SALLE D'EAU 1+MEUBLE TV.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790931325988_fud2z",
+          "name": "BUREAU CHAMBRE D'AMIS",
+          "x": 52.92804890979968,
+          "y": 17.65321121652998,
+          "color": "#ffff00",
+          "content": "\u003ch2>BUREAU CHAMBRE D&#39;AMIS\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plinthes\u003c/strong> — en bois, à peindre\u003c/li>\u003cli>\u003cstrong>Parquet\u003c/strong> — contrecollé, chêne Origine monolame XL, brossé verni mat, sous couche Silent Walk 2\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Agencement\u003c/strong> — Voir plan de détail dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan de détails\u003c/strong> — Agencements — \u003ca href=\"documents/AUGER PLANS AGENCEMENTS DGT 1+CHAMBRE AMIS+CHAMBRE 1.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790931386042_h9rwf",
+                "name": "Plinthes",
+                "detail": "en bois, à peindre",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790931424448_o6l2l",
+                "name": "Parquet",
+                "detail": "contrecollé, chêne Origine monolame XL, brossé verni mat, sous couche Silent Walk 2",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790946472483_ctvlz",
+                "name": "Agencement",
+                "detail": "Voir plan de détail dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790946516507_8hddr",
+                "name": "Plan de détails",
+                "detail": "Agencements",
+                "pdf": "documents/AUGER PLANS AGENCEMENTS DGT 1+CHAMBRE AMIS+CHAMBRE 1.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790931552243_vdtw7",
+          "name": "DGT 2",
+          "x": 59.474962898576216,
+          "y": 19.84102604807323,
+          "color": "#0000ff",
+          "content": "\u003ch2>DGT 2\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plinthes\u003c/strong> — en bois, à peindre\u003c/li>\u003cli>\u003cstrong>Parquet\u003c/strong> — contrecollé, chêne Origine monolame XL, brossé verni mat, sous couche Silent Walk 2\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790931603082_zf5au",
+                "name": "Plinthes",
+                "detail": "en bois, à peindre",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790931615698_n6a6s",
+                "name": "Parquet",
+                "detail": "contrecollé, chêne Origine monolame XL, brossé verni mat, sous couche Silent Walk 2",
+                "pdf": ""
+              }
+            ],
+            "equipements": [],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1790931826027_qubn1",
+          "name": "CELLIER LAVERIE",
+          "x": 59.337965759401285,
+          "y": 17.445820870674595,
+          "color": "#e6d299",
+          "content": "\u003ch2>CELLIER LAVERIE\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plinthes\u003c/strong> — Carrelage\u003c/li>\u003cli>\u003cstrong>Carrelage\u003c/strong> — Voir plan LESCA dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Agencement\u003c/strong> — Voir plan de détail dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan LESCA\u003c/strong> — Carrelage — \u003ca href=\"documents/AUGER LESCA RDC.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003cli>\u003cstrong>Plan de détails\u003c/strong> — Agencements — \u003ca href=\"documents/AUGER PLANS AGENCEMENTS DGT 3+BUANDERIE.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790931889713_men76",
+                "name": "Plinthes",
+                "detail": "Carrelage",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790931923296_i1th6",
+                "name": "Carrelage",
+                "detail": "Voir plan LESCA dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790946635340_3a6vo",
+                "name": "Agencement",
+                "detail": "Voir plan de détail dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790932147367_dafhe",
+                "name": "Plan LESCA",
+                "detail": "Carrelage",
+                "pdf": "documents/AUGER LESCA RDC.pdf"
+              },
+              {
+                "id": "f_1790946651299_ybsfx",
+                "name": "Plan de détails",
+                "detail": "Agencements",
+                "pdf": "documents/AUGER PLANS AGENCEMENTS DGT 3+BUANDERIE.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790932180294_ghk98",
+          "name": "DGT 3",
+          "x": 65.77170300798336,
+          "y": 21.388419750970495,
+          "color": "#ff8000",
+          "content": "\u003ch2>DGT 3\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plinthes\u003c/strong> — en bois, à peindre\u003c/li>\u003cli>\u003cstrong>Parquet\u003c/strong> — contrecollé, chêne Origine monolame XL, brossé verni mat, sous couche Silent Walk 2\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Agencement\u003c/strong> — Voir plan de détail dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan de détails\u003c/strong> — Agencements — \u003ca href=\"documents/AUGER PLANS AGENCEMENTS DGT 3+BUANDERIE.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790932219173_vlrhx",
+                "name": "Plinthes",
+                "detail": "en bois, à peindre",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790932269236_ki3ea",
+                "name": "Parquet",
+                "detail": "contrecollé, chêne Origine monolame XL, brossé verni mat, sous couche Silent Walk 2",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790946785268_dt706",
+                "name": "Agencement",
+                "detail": "Voir plan de détail dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790946801379_8t2az",
+                "name": "Plan de détails",
+                "detail": "Agencements",
+                "pdf": "documents/AUGER PLANS AGENCEMENTS DGT 3+BUANDERIE.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790932354738_epn0i",
+          "name": "DRESSING",
+          "x": 63.82531324903527,
+          "y": 16.498932018433273,
+          "color": "#63a073",
+          "content": "\u003ch2>DRESSING\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plinthes\u003c/strong> — en bois, à peindre\u003c/li>\u003cli>\u003cstrong>Parquet\u003c/strong> — contrecollé, chêne Origine monolame XL, brossé verni mat, sous couche Silent Walk 2\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Agencement\u003c/strong> — Voir plan de détail dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan de détails\u003c/strong> — Agencements — \u003ca href=\"documents/AUGER PLANS AGENCEMENTS DRESSING+SALLE D&#39;EAU 1+MEUBLE TV.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790932383161_uagaz",
+                "name": "Plinthes",
+                "detail": "en bois, à peindre",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790932401432_2mk2y",
+                "name": "Parquet",
+                "detail": "contrecollé, chêne Origine monolame XL, brossé verni mat, sous couche Silent Walk 2",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790946981652_cjbyy",
+                "name": "Agencement",
+                "detail": "Voir plan de détail dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790946999164_yak60",
+                "name": "Plan de détails",
+                "detail": "Agencements",
+                "pdf": "documents/AUGER PLANS AGENCEMENTS DRESSING+SALLE D'EAU 1+MEUBLE TV.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790932531781_y8tmd",
+          "name": "SALLE D'EAU 1",
+          "x": 69.94381216751367,
+          "y": 15.043910006428703,
+          "color": "#15c8ee",
+          "content": "\u003ch2>SALLE D&#39;EAU 1\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Carrelage/Faïences\u003c/strong> — Voir plan LESCA dans &quot;Divers&quot;\u003c/li>\u003cli>\u003cstrong>Plinthes\u003c/strong> — carrelage\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>MEUBLE VASQUE\u003c/strong> — - plan vasque double 120cm\u003cbr>- 2 tiroirs grand format coloris CHENE SABLE\u003cbr>- Poignées profil chromé\u003cbr>- 1 miroir L120xH80\u003cbr>- 2 mitigeurs TIMES XL CHROME\u003c/li>\u003cli>\u003cstrong>DOUCHE\u003c/strong> — - Receveur TRENDY 100x160 (brut), en 90x145 (fini+retrait pour porte de douche), finition blanc, effet pierre bouchardée\u003cbr>-colonne de douche Thermostatique chromée, TIME\u003cbr>- Tête de douche Plot Orientable\u003cbr>-Douchette\u003cbr>-Paroi de douche battante intérieure et extérieure 70x200 cm, FILO\u003cbr>- Verre transparent, 6 mm\u003c/li>\u003cli>\u003cstrong>SECHE-SERVIETTES\u003c/strong> — -soufflant, modèle REGATE, hauteur 880, blanc mat\u003c/li>\u003cli>\u003cstrong>Agencement\u003c/strong> — Voir plan de détail dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan LESCA\u003c/strong> — Carrelage — \u003ca href=\"documents/AUGER LESCA RDC+WC1+WC2+SDE 1.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003cli>\u003cstrong>Plan de détails\u003c/strong> — Agencements — \u003ca href=\"documents/AUGER PLANS AGENCEMENTS DRESSING+SALLE D&#39;EAU 1+MEUBLE TV.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790933031401_zav2x",
+                "name": "Carrelage/Faïences",
+                "detail": "Voir plan LESCA dans \"Divers\"",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790933220092_tnn8j",
+                "name": "Plinthes",
+                "detail": "carrelage",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790932914147_8u1ha",
+                "name": "MEUBLE VASQUE",
+                "detail": "- plan vasque double 120cm\n- 2 tiroirs grand format coloris CHENE SABLE\n- Poignées profil chromé\n- 1 miroir L120xH80\n- 2 mitigeurs TIMES XL CHROME",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790932942035_r16mo",
+                "name": "DOUCHE",
+                "detail": "- Receveur TRENDY 100x160 (brut), en 90x145 (fini+retrait pour porte de douche), finition blanc, effet pierre bouchardée\n-colonne de douche Thermostatique chromée, TIME\n- Tête de douche Plot Orientable\n-Douchette\n-Paroi de douche battante intérieure et extérieure 70x200 cm, FILO\n- Verre transparent, 6 mm",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790932966379_hkixh",
+                "name": "SECHE-SERVIETTES",
+                "detail": "-soufflant, modèle REGATE, hauteur 880, blanc mat",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790947152868_vmokn",
+                "name": "Agencement",
+                "detail": "Voir plan de détail dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790933246132_qjc8g",
+                "name": "Plan LESCA",
+                "detail": "Carrelage",
+                "pdf": "documents/AUGER LESCA RDC+WC1+WC2+SDE 1.pdf"
+              },
+              {
+                "id": "f_1790947177628_4bm46",
+                "name": "Plan de détails",
+                "detail": "Agencements",
+                "pdf": "documents/AUGER PLANS AGENCEMENTS DRESSING+SALLE D'EAU 1+MEUBLE TV.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790933351130_ndctp",
+          "name": "WC 2",
+          "x": 71.1872938602657,
+          "y": 24.086761666542248,
+          "color": "#726897",
+          "content": "\u003ch2>WC 2\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Carrelage/Faïences\u003c/strong> — Voir plan LESCA dans &quot;Divers&quot;\u003c/li>\u003cli>\u003cstrong>Plinthes\u003c/strong> — Carrelage\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>WC\u003c/strong> — - Cuvette suspendue ROCA ONA BLANC\u003cbr>- Douchette hygiénique INTIMIXER\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan LESCA\u003c/strong> — Carrelage — \u003ca href=\"documents/AUGER LESCA RDC+WC1+WC2+SDE 1.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790933440712_encpv",
+                "name": "Carrelage/Faïences",
+                "detail": "Voir plan LESCA dans \"Divers\"",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790933481032_wteqe",
+                "name": "Plinthes",
+                "detail": "Carrelage",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790933414729_j8wn5",
+                "name": "WC",
+                "detail": "- Cuvette suspendue ROCA ONA BLANC\n- Douchette hygiénique INTIMIXER",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790933508327_fciiv",
+                "name": "Plan LESCA",
+                "detail": "Carrelage",
+                "pdf": "documents/AUGER LESCA RDC+WC1+WC2+SDE 1.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790933612174_ubxge",
+          "name": "CHAMBRE 1",
+          "x": 68.82967092468448,
+          "y": 30.972345908882826,
+          "color": "#27fa0a",
+          "content": "\u003ch2>CHAMBRE 1\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plinthes\u003c/strong> — en bois, à peindre\u003c/li>\u003cli>\u003cstrong>Parquet\u003c/strong> — contrecollé, chêne Origine monolame XL, brossé verni mat, sous couche Silent Walk 2\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Agencement\u003c/strong> — Voir plan de détail dans &quot;Divers&quot;\u003c/li>\u003cli>\u003cstrong>Tête de lit\u003c/strong> — Voir plan de détail dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan de détails\u003c/strong> — Agencements — \u003ca href=\"documents/AUGER PLANS AGENCEMENTS DGT 1+CHAMBRE AMIS+CHAMBRE 1.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003cli>\u003cstrong>Plan de détail\u003c/strong> — Tête de lit — \u003ca href=\"documents/AUGER PLANS TÊTES DE LIT.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790933646245_lhmk4",
+                "name": "Plinthes",
+                "detail": "en bois, à peindre",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790933663155_ag4tf",
+                "name": "Parquet",
+                "detail": "contrecollé, chêne Origine monolame XL, brossé verni mat, sous couche Silent Walk 2",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790947349316_8b1oi",
+                "name": "Agencement",
+                "detail": "Voir plan de détail dans \"Divers\"",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790947529453_jmoz1",
+                "name": "Tête de lit",
+                "detail": "Voir plan de détail dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790947382028_80q3w",
+                "name": "Plan de détails",
+                "detail": "Agencements",
+                "pdf": "documents/AUGER PLANS AGENCEMENTS DGT 1+CHAMBRE AMIS+CHAMBRE 1.pdf"
+              },
+              {
+                "id": "f_1790947584004_we792",
+                "name": "Plan de détail",
+                "detail": "Tête de lit",
+                "pdf": "documents/AUGER PLANS TÊTES DE LIT.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790933821393_av3g4",
+          "name": "ESCALIER",
+          "x": 46.7946484754055,
+          "y": 24.672860557116437,
+          "color": "#838181",
+          "content": "\u003ch2>ESCALIER\u003c/h2>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan Dauga\u003c/strong> — Escaliers\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [],
+            "equipements": [],
+            "divers": [
+              {
+                "id": "f_1790933883369_f4ed3",
+                "name": "Plan Dauga",
+                "detail": "Escaliers",
+                "pdf": ""
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "level_1790927498760_dclks",
+      "name": "R+1",
+      "plan": "plans/Pages de Auger - PCG - R+1.png",
+      "rooms": [
+        {
+          "id": "r_1790933739043_8lzsd",
+          "name": "SALLE DE LECTURE / CHAMBRE 4",
+          "x": 39.85617906173113,
+          "y": 31.64878607439047,
+          "color": "#ffff00",
+          "content": "\u003ch2>SALLE DE LECTURE / CHAMBRE 4\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plinthes\u003c/strong> — en bois, à peindre\u003c/li>\u003cli>\u003cstrong>Parquet\u003c/strong> — contrecollé, chêne Origine monolame XL, brossé verni mat, sous couche Unisound\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790933948936_blshw",
+                "name": "Plinthes",
+                "detail": "en bois, à peindre",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790933962952_tma1z",
+                "name": "Parquet",
+                "detail": "contrecollé, chêne Origine monolame XL, brossé verni mat, sous couche Unisound",
+                "pdf": ""
+              }
+            ],
+            "equipements": [],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1790934042181_jt9lu",
+          "name": "PALIER",
+          "x": 46.76152014600207,
+          "y": 34.13313648233501,
+          "color": "#6f42c1",
+          "content": "\u003ch2>PALIER\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plinthes\u003c/strong> — en bois, à peindre\u003c/li>\u003cli>\u003cstrong>Parquet\u003c/strong> — contrecollé, chêne Origine monolame XL, brossé verni mat, sous couche Unisound\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Agencement\u003c/strong> — Voir plan de détail dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan de détails\u003c/strong> — Agencements — \u003ca href=\"documents/AUGER PLANS AGENCEMENTS PALIER ETAGE+SALLE D&#39;EAU 2+CHAMBRE 2+CHAMBRE 3.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790934085205_qzvmi",
+                "name": "Plinthes",
+                "detail": "en bois, à peindre",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790934100653_i0vqs",
+                "name": "Parquet",
+                "detail": "contrecollé, chêne Origine monolame XL, brossé verni mat, sous couche Unisound",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790947740420_22yj4",
+                "name": "Agencement",
+                "detail": "Voir plan de détail dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790947794683_6j1ez",
+                "name": "Plan de détails",
+                "detail": "Agencements",
+                "pdf": "documents/AUGER PLANS AGENCEMENTS PALIER ETAGE+SALLE D'EAU 2+CHAMBRE 2+CHAMBRE 3.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790934148780_9sxq0",
+          "name": "SALLE D'EAU 2",
+          "x": 52.49116368944857,
+          "y": 35.336887270813406,
+          "color": "#ef8fc7",
+          "content": "\u003ch2>SALLE D&#39;EAU 2\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Carrelage/Faïences\u003c/strong> — Voir plan de LESCA dans &quot;Divers&quot;\u003c/li>\u003cli>\u003cstrong>Plinthes\u003c/strong> — en bois à peindre spéciale pièce d’eau.\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>MEUBLE VASQUE\u003c/strong> — - 1 plan céramique grande vasque 1010x18x460cm\u003cbr>- 1 meuble100cm 1 tiroir H30.4cm P46cm sous vasque finition CHENE SANREMO CHS finition poignée couleur chromée\u003cbr>- 1 étagère de L1208mm P465mm épaisseur 36mm finition CHENE SANREMO CHS\u003cbr>- 1 miroir L100xH80 ORION\u003cbr>- 2 Mitigeurs NAVA chromés équipés d&#39;une bonde push open\u003cbr>- 2 siphons\u003c/li>\u003cli>\u003cstrong>DOUCHE\u003c/strong> — - Receveur TRENDY 100x160 (brut) à recouper en 90x152 (fini+retrait pour porte de douche), finition blanc, effet pierre bouchardée\u003cbr>- Colonne de douche Thermostatique TIME\u003cbr>- Douche de tête \u003cbr>- Douchette\u003cbr>- Paroi battante intérieur et extérieur de douche FILO\u003c/li>\u003cli>\u003cstrong>SECHE-SERVIETTE\u003c/strong> — Non soufflant, modele REGATE, hauteur 1388, blanc mat\u003c/li>\u003cli>\u003cstrong>Agencement\u003c/strong> — Voir plan de détail dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan LESCA\u003c/strong> — Carrelage/Faïences — \u003ca href=\"documents/AUGER LESCA R+1+WC3+SDE 2.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003cli>\u003cstrong>Plan de détails\u003c/strong> — Agencements — \u003ca href=\"documents/AUGER PLANS AGENCEMENTS PALIER ETAGE+SALLE D&#39;EAU 2+CHAMBRE 2+CHAMBRE 3.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790934330961_ua03j",
+                "name": "Carrelage/Faïences",
+                "detail": "Voir plan de LESCA dans \"Divers\"",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790934390616_gur19",
+                "name": "Plinthes",
+                "detail": "en bois à peindre spéciale pièce d’eau.",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790934255313_45ojx",
+                "name": "MEUBLE VASQUE",
+                "detail": "- 1 plan céramique grande vasque 1010x18x460cm\n- 1 meuble100cm 1 tiroir H30.4cm P46cm sous vasque finition CHENE SANREMO CHS finition poignée couleur chromée\n- 1 étagère de L1208mm P465mm épaisseur 36mm finition CHENE SANREMO CHS\n- 1 miroir L100xH80 ORION\n- 2 Mitigeurs NAVA chromés équipés d'une bonde push open\n- 2 siphons",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790934271794_4hmmf",
+                "name": "DOUCHE",
+                "detail": "- Receveur TRENDY 100x160 (brut) à recouper en 90x152 (fini+retrait pour porte de douche), finition blanc, effet pierre bouchardée\n- Colonne de douche Thermostatique TIME\n- Douche de tête \n- Douchette\n- Paroi battante intérieur et extérieur de douche FILO",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790934293898_mnasz",
+                "name": "SECHE-SERVIETTE",
+                "detail": "Non soufflant, modele REGATE, hauteur 1388, blanc mat",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790947951260_q8n62",
+                "name": "Agencement",
+                "detail": "Voir plan de détail dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790934412656_c198g",
+                "name": "Plan LESCA",
+                "detail": "Carrelage/Faïences",
+                "pdf": "documents/AUGER LESCA R+1+WC3+SDE 2.pdf"
+              },
+              {
+                "id": "f_1790948034508_ovku1",
+                "name": "Plan de détails",
+                "detail": "Agencements",
+                "pdf": "documents/AUGER PLANS AGENCEMENTS PALIER ETAGE+SALLE D'EAU 2+CHAMBRE 2+CHAMBRE 3.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790934567294_7smnr",
+          "name": "WC 3",
+          "x": 52.671016172087825,
+          "y": 28.465958658182064,
+          "color": "#43c068",
+          "content": "\u003ch2>WC 3\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Carrelage/Faïences\u003c/strong> — Voir plan de LESCA dans &quot;Divers&quot;\u003c/li>\u003cli>\u003cstrong>Plinthes\u003c/strong> — Carrelage\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>WC\u003c/strong> — - Cuvette suspendue ROCA ONA BLANC\u003cbr>- Fourniture d’une douchette hygiénique type INTIMIXER\u003c/li>\u003cli>\u003cstrong>MEUBLE VASQUE\u003c/strong> — - Plan vasque céramique\u003cbr>- Dimensions : 865x450x25\u003cbr>- Mitigeur lavabo ULTIMA\u003cbr>- Porte-serviettes JAZZ\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>PLAN LESCA\u003c/strong> — Carrelage/Faïences — \u003ca href=\"documents/AUGER LESCA R+1+WC3+SDE 2.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790934670765_t20r6",
+                "name": "Carrelage/Faïences",
+                "detail": "Voir plan de LESCA dans \"Divers\"",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790934710373_vwie4",
+                "name": "Plinthes",
+                "detail": "Carrelage",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790934617589_l57gu",
+                "name": "WC",
+                "detail": "- Cuvette suspendue ROCA ONA BLANC\n- Fourniture d’une douchette hygiénique type INTIMIXER",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790934635686_9vrlv",
+                "name": "MEUBLE VASQUE",
+                "detail": "- Plan vasque céramique\n- Dimensions : 865x450x25\n- Mitigeur lavabo ULTIMA\n- Porte-serviettes JAZZ",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790934731172_1ldwf",
+                "name": "PLAN LESCA",
+                "detail": "Carrelage/Faïences",
+                "pdf": "documents/AUGER LESCA R+1+WC3+SDE 2.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790934808115_pgejw",
+          "name": "DGT 4",
+          "x": 58.076325898544084,
+          "y": 24.83846586262983,
+          "color": "#ff8000",
+          "content": "\u003ch2>DGT 4\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plinthes\u003c/strong> — en bois, à peindre\u003c/li>\u003cli>\u003cstrong>Parquet\u003c/strong> — contrecollé, chêne Origine monolame XL, brossé verni mat, sous couche Unisound\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790934853098_f4lsu",
+                "name": "Plinthes",
+                "detail": "en bois, à peindre",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790934866819_1nh05",
+                "name": "Parquet",
+                "detail": "contrecollé, chêne Origine monolame XL, brossé verni mat, sous couche Unisound",
+                "pdf": ""
+              }
+            ],
+            "equipements": [],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1790934902098_pn5ta",
+          "name": "CHAMBRE 2",
+          "x": 59.44723991008843,
+          "y": 31.412208148905243,
+          "color": "#358dce",
+          "content": "\u003ch2>CHAMBRE 2\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plinthes\u003c/strong> — en bois, à peindre\u003c/li>\u003cli>\u003cstrong>Parquet\u003c/strong> — contrecollé, chêne Origine monolame XL, brossé verni mat, sous couche Unisound\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Agencement\u003c/strong> — Voir plan de détail dans &quot;Divers&quot;\u003c/li>\u003cli>\u003cstrong>Tête de lit\u003c/strong> — Voir plan de détail dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan de détails\u003c/strong> — Agencements — \u003ca href=\"documents/AUGER PLANS AGENCEMENTS PALIER ETAGE+SALLE D&#39;EAU 2+CHAMBRE 2+CHAMBRE 3.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003cli>\u003cstrong>Plan de détail\u003c/strong> — Tête de lit — \u003ca href=\"documents/AUGER PLANS TÊTES DE LIT.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790934938866_lfqkc",
+                "name": "Plinthes",
+                "detail": "en bois, à peindre",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790934951426_ealdp",
+                "name": "Parquet",
+                "detail": "contrecollé, chêne Origine monolame XL, brossé verni mat, sous couche Unisound",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790948246556_k1ds1",
+                "name": "Agencement",
+                "detail": "Voir plan de détail dans \"Divers\"",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790948266300_4fa8k",
+                "name": "Tête de lit",
+                "detail": "Voir plan de détail dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790948299036_q7djq",
+                "name": "Plan de détails",
+                "detail": "Agencements",
+                "pdf": "documents/AUGER PLANS AGENCEMENTS PALIER ETAGE+SALLE D'EAU 2+CHAMBRE 2+CHAMBRE 3.pdf"
+              },
+              {
+                "id": "f_1790948358604_imub1",
+                "name": "Plan de détail",
+                "detail": "Tête de lit",
+                "pdf": "documents/AUGER PLANS TÊTES DE LIT.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790934987753_7wt1z",
+          "name": "CHAMBRE 3",
+          "x": 67.2230241777341,
+          "y": 31.386103837872444,
+          "color": "#ff0000",
+          "content": "\u003ch2>CHAMBRE 3\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plinthes\u003c/strong> — en bois, à peindre\u003c/li>\u003cli>\u003cstrong>Parquet\u003c/strong> — contrecollé, chêne Origine monolame XL, brossé verni mat, sous couche Unisound\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Agencement\u003c/strong> — Voir plan de détail dans &quot;Divers&quot;\u003c/li>\u003cli>\u003cstrong>Tête de lit\u003c/strong> — Voir plan de détail dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan de détails\u003c/strong> — Agencements — \u003ca href=\"documents/AUGER PLANS AGENCEMENTS PALIER ETAGE+SALLE D&#39;EAU 2+CHAMBRE 2+CHAMBRE 3.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003cli>\u003cstrong>Plan de détail\u003c/strong> — Tête de lit — \u003ca href=\"documents/AUGER PLANS TÊTES DE LIT.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790935006921_96asy",
+                "name": "Plinthes",
+                "detail": "en bois, à peindre",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790935019545_4q5vy",
+                "name": "Parquet",
+                "detail": "contrecollé, chêne Origine monolame XL, brossé verni mat, sous couche Unisound",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790948737508_vxrpy",
+                "name": "Agencement",
+                "detail": "Voir plan de détail dans \"Divers\"",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790948748772_joap3",
+                "name": "Tête de lit",
+                "detail": "Voir plan de détail dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790948766324_600d3",
+                "name": "Plan de détails",
+                "detail": "Agencements",
+                "pdf": "documents/AUGER PLANS AGENCEMENTS PALIER ETAGE+SALLE D'EAU 2+CHAMBRE 2+CHAMBRE 3.pdf"
+              },
+              {
+                "id": "f_1790948784309_naqgr",
+                "name": "Plan de détail",
+                "detail": "Tête de lit",
+                "pdf": "documents/AUGER PLANS TÊTES DE LIT.pdf"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
